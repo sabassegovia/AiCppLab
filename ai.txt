@@ -1,0 +1,33 @@
+ Do you live in the USA?
+ Do you live in the northern part of the USA?
+ Is it in the NORTH-WEST?
+ You must live near Washington, huh!
+EOF
+EOF
+ You must live near New York state, huh!
+EOF
+EOF
+ Is it in the SOUTH-WEST?
+ You must live near California, huh!
+EOF
+EOF
+ You must live near Florida, huh!
+EOF
+EOF
+ Do you live on this continent?
+ Do you live south of the USA?
+ North of the USA?
+You must live in Canada, huh!
+EOF
+EOF
+ South of the USA?
+You must live in Mexico, huh!
+EOF
+EOF
+ Do you live in a Europe/Asia/Russia?
+ Well, those are a whole lot of countries! I wouldn't be able to make an educated guess without more branches!
+EOF
+EOF
+ So neither of those? You must be living in India, Australia, Africa....or even Antarctica, if you are crazy!
+EOF
+EOF
